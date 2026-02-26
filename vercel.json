@@ -1,6 +1,0 @@
-﻿{
-  "buildCommand": "cd app && npm install && npm run build",
-  "outputDirectory": "app/dist",
-  "installCommand": "pip install -r requirements.txt",
-  "framework": "vite"
-}
